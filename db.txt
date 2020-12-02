@@ -1,0 +1,3 @@
+username = claudia
+password = nfWku2ra6H6fRB4
+database connection = mongodb+srv://claudia:<password>@cluster0.ck5ls.mongodb.net/<dbname>
